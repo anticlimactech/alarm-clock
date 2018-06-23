@@ -8,8 +8,8 @@ CS4320 Alarm Clock Use Case and Description
 ![Use Case Diagram](AlarmClockUseCaseDiagram.png)
 
 **Use Case Description**
--User is able to Set Current Time, which will include cases for to Set 12 or 24 Hour Format, Set Hours, and Set Minutes.
--User can Set Alarm Time for up to two separate alarms, which includes Set Hours and Set Minutes.
--User can Set Snooze Duration, which includes Set Minutes.
--If user has Set Alarm Time, Play Sound When Alarm Fires extends Set Alarm Time cases. User will be able to Snooze or Turn Off the Alarm.
--If Play Sound When Alarm Fires case is not turned off or snoozed after 2 minutes, Snooze is included and Alarm will Fire again after Snooze Duration has passed.
+- User is able to Set Current Time, which will include cases for to Set 12 or 24 Hour Format, Set Hours, and Set Minutes.
+- User can Set Alarm Time for up to two separate alarms, which includes Set Hours and Set Minutes.
+- User can Set Snooze Duration, which includes Set Minutes.
+- If user has Set Alarm Time, Play Sound When Alarm Fires extends Set Alarm Time cases. User will be able to Snooze or Turn Off the Alarm.
+- If Play Sound When Alarm Fires case is not turned off or snoozed after 2 minutes, Snooze is included and Alarm will Fire again after Snooze Duration has passed.
