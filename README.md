@@ -5,5 +5,5 @@ CS4320 Alarm Clock Use Case and Description
 
 *It is possible to set one or two alarms. When an alarm fires, it will sound some noise. The user can turn it off, or choose to “snooze”. If the user does not respond at all, the alarm will turn off itself after 2 minutes. “Snoozing” means to turn off the sound, but the alarm will fire again after some minutes of delay. This “snoozing time” is pre-adjustable.*
 
-!(Alarm Clock Use Case Diagram.xml)
+!(AlarmClockUseCaseDiagram.png)
 
